@@ -1,0 +1,23 @@
+{"DATA_INFO": {
+    "device_type": {
+        "type": "VARCHAR",
+        "b_length": 32
+    },
+    "detection_type": {
+        "type": "VARCHAR",
+        "b_length": 32
+    },
+    "protocol_ver": {
+        "type": "VARCHAR",
+        "b_length": 32
+    },
+    "file_name": {
+        "type": "VARCHAR",
+        "b_length": 32
+    },
+    "file_time": {
+        "type": "VARCHAR",
+        "b_length": 32
+    }
+    }
+}
